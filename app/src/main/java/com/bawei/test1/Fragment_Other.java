@@ -31,6 +31,8 @@ public class Fragment_Other extends Fragment {
             public void onClick(View view) {
                 ra.check(ra.getChildAt(2).getId());
             System.out.println("主分支");
+                System.out.println("这是子分支");
+
             }
         });
     }
