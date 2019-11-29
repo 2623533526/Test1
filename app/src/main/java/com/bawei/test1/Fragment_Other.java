@@ -32,6 +32,7 @@ public class Fragment_Other extends Fragment {
                 ra.check(ra.getChildAt(2).getId());
             System.out.println("主分支");
                 System.out.println("这是子分支");
+                 System.out.println("张家辅");
 
             }
         });
