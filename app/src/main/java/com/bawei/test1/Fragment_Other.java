@@ -30,7 +30,7 @@ public class Fragment_Other extends Fragment {
             @Override
             public void onClick(View view) {
                 ra.check(ra.getChildAt(2).getId());
-
+            System.out.println("主分支");
             }
         });
     }
